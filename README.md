@@ -47,18 +47,4 @@ Calculate Max Ad Budget: Click the Calculate Max Ad Budget button to compute the
 
 View Results: The application will display the maximum budget for the specific ad or an error message if the calculation fails.
 
-Troubleshooting
-Here are some common issues and solutions:
 
-Application Does Not Start:
-
-Ensure that all required dependencies are installed.
-Check for build errors in Visual Studio.
-Make sure the correct SDK version is installed.
-Validation Errors:
-
-Verify that all input fields are filled correctly.
-Ensure that percentages are entered as decimal values (e.g., 0.1 for 10%).
-Port Conflicts:
-
-If the default port is in use, change the port number in the launchSettings.json file under the Properties folder.
