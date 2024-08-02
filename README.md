@@ -2,8 +2,10 @@
 To set up the application locally, follow these steps:
 
 1.Clone the Repository: Open your terminal or command prompt and run:
-git clone git@github.com:Alex2BM/Campaign-Media-Planner.git
-cd campaign-media-planner
+  
+  -git clone git@github.com:Alex2BM/Campaign-Media-Planner.git
+  
+  -cd campaign-media-planner
 
 2.Open the Project: Launch Visual Studio or Visual Studio Code and open the CampaignMediaPlanner.sln file.
 
@@ -12,7 +14,7 @@ cd campaign-media-planner
 
 
 ------------------------------------------------------Running the Application-------------------------------------
-Follow these steps to run the application:
+                  Follow these steps to run the application:
 
 1.Build the Project:
 
